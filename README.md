@@ -1,5 +1,6 @@
-![Uploading Screenshot (5).png…]()
+
 # Pneumonia Classification Web App!
+![Screenshot (5)](https://github.com/user-attachments/assets/2d6451a5-602b-49a2-9e7e-9eab0afd53d2)
 
 
 This Streamlit web application allows users to classify chest X-ray images to detect pneumonia. The app uses a pre-trained machine learning model to predict whether an uploaded X-ray image shows signs of pneumonia.
